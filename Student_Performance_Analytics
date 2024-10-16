@@ -1,0 +1,24 @@
+# Student Performance Analytics
+
+## Objective
+The goal was to analyze student performance data to identify key factors affecting academic success and to provide actionable insights for improving student outcomes.
+
+## Skills Used
+- Python: pandas, seaborn, matplotlib
+- SQL
+- Tableau
+
+## Dataset
+- Anonymized dataset of student exam scores, attendance records, and demographic data.
+
+## Methodology
+1. **Data Collection**: Extracted data from student records, including exam scores and attendance data.
+2. **Data Cleaning**: Handled missing values, normalized data, and prepared it for analysis.
+3. **Analysis**:
+   - Correlated student attendance with exam performance.
+   - Analyzed the impact of demographic factors on performance.
+4. **Visualization**: Created dashboards in Tableau to visualize performance by department and identify trends.
+
+## Results
+- The analysis showed that students with an attendance rate of over 85% performed 20% better in exams on average.
+- Certain departments had higher performance disparities, which were addressed by targeted academic interventions.
